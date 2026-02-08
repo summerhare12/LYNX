@@ -1,2 +1,2 @@
 # LYNX
-From Context to Correctness: Iterative Reflection for LLM-Powered Data Analytics
+Collaborative Agents for Reliable NL-to-Analytics: A Multi-Agent Framework with Closed-Loop Verification
