@@ -3,7 +3,7 @@
 We propose LYNX, a multi-agent framework that formulates LLM-powered domain analytics as a schema- and knowledge-constrained analytical program synthesis problem, rather than a single-pass language modeling task. LYNX decomposes code generation into a closed-loop pipeline of planning, synthesis, and verification, implemented by three role-specialized agents that collaboratively enforce domain grounding, schema consistency, and execution reliability. By integrating metadata-aware retrieval, structured reasoning, and execution-guided iterative refinement, the framework systematically resolves domain ambiguity and execution brittleness in complex, real-world analytical workloads.
 
 <p align="center">
-    <img src="images/framework.jpg"/>
+    <img src="framework.png"/>
 </p>
 
 
