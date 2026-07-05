@@ -1,0 +1,10 @@
+{
+  "openai": {
+    "api_key": "your-api-key",
+    "api_base": "https://api.openai.com/v1",
+    "model": "gpt-4",
+    "temperature": 0.0,
+    "max_tokens": 4096,
+    "request_timeout": 120
+  }
+}
